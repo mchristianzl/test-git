@@ -1,4 +1,4 @@
-[![Deployment Pipeline](https://github.com/midudev/pokedex-for-ci/actions/workflows/pipeline.yml/badge.svg)](https://github.com/midudev/pokedex-for-ci/actions/workflows/pipeline.yml)
+[![Say hello](https://github.com/mchristianzl/test-git/actions/workflows/hello.yml/badge.svg)](https://github.com/mchristianzl/test-git/actions/workflows/hello.yml)
 
 # test-git
 
