@@ -1,13 +1,17 @@
-name: Say helllo
+name: Say hello
+
 on:
-    push:
-        branches: 
-            - main
+  push:
+    branches:
+      - main
 
 jobs:
-    hello_world:
-        runs-on: ubuntu-18.04
-        steps:
-            - name: Echo message
-              run: |
-                echo "Hello world"
+  hello_world:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Echo the message
+        run: |
+          echo "Hola xtian!"
+      - name: Dime la fecha
+        run: date
+      - run: ls -l
